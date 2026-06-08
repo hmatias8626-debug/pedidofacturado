@@ -166,3 +166,4 @@ if archivo:
     )
 else:
     st.info("Esperando archivo...")
+    st.info("Esperando archivo...")
